@@ -48,9 +48,17 @@ namespace Nutrinometer
             {
                 MessageBox.Show("Please fill all blank fields", "Error Message", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
+            else if (signup_password.Text.Length < 8)
+            {
+                MessageBox.Show("Password must be at least 8 characters long and contain at least one uppercase letter, one lowercase letter, and one number", "Error Message", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
             else if (!PasswordMeetsRequirements(signup_password.Text))
             {
                 MessageBox.Show("Password must contain at least one uppercase letter, one lowercase letter, and one number", "Error Message", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            else if (IsPureLetterPassword(signup_password.Text))
+            {
+                MessageBox.Show("Password must contain at least one number", "Error Message", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
             else
             {
@@ -101,10 +109,17 @@ namespace Nutrinometer
             }
         }
 
+        private bool IsPureLetterPassword(string password)
+        {
+            // Check if password consists only of letters
+            return password.All(char.IsLetter);
+        }
+
+
         private bool PasswordMeetsRequirements(string password)
         {
             // Password must contain at least one uppercase letter, one lowercase letter, and one number
-            return password.Any(char.IsUpper) && password.Any(char.IsLower) && password.Any(char.IsDigit);
+            return password.Length >= 8 && password.Any(char.IsUpper) && password.Any(char.IsLower) && password.Any(char.IsDigit);
         }
 
 
