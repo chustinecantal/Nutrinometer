@@ -14,3 +14,13 @@
   - [Acknowledgments](#acknowledgments)
   - [Contribution Narrative](#contribution-narrative)
 
+---
+
+## 📍 Overview
+
+This project aims to develop a user-friendly food intake tracker that allows individuals to log their daily meals and monitor their calorie consumption. By providing accurate nutritional information, personalized recommendations, and insights into eating habits, NutriTrack empowers users to make informed dietary choices. The project aligns with Sustainable Development Goal 3 (Good Health and Well-Being) by promoting healthier lifestyles and preventing diet-related health issues.
+
+---
+
+## 📦 Features
+
