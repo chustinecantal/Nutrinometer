@@ -5,7 +5,7 @@
 
 ---
 
-## 📖 Table of Contents
+# 📖 Table of Contents
 - [📖 Table of Contents](#-table-of-contents)
 - [📍 Overview](#-overview)
 - [📦 Features](#-features)
