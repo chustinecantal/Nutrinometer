@@ -24,3 +24,12 @@ This project aims to develop a user-friendly food intake tracker that allows ind
 
 ## 📦 Features
 
+Below are the features of a User Calories Tracker, referred to as Nutrinometer. Here's a breakdown of its functionalities:
+
+- **Login**
+
+- **Sign Up**
+
+- **User Dashboard**
+
+- 
