@@ -1,0 +1,11 @@
+C:\Users\Rein\source\repos\try\CalorieTracker\CalorieTracker\obj\Debug\CalorieTracker.csproj.AssemblyReference.cache
+C:\Users\Rein\source\repos\try\CalorieTracker\CalorieTracker\obj\Debug\CalorieTracker.Properties.Resources.resources
+C:\Users\Rein\source\repos\try\CalorieTracker\CalorieTracker\obj\Debug\CalorieTracker.csproj.GenerateResource.cache
+C:\Users\Rein\source\repos\try\CalorieTracker\CalorieTracker\obj\Debug\CalorieTracker.csproj.CoreCompileInputs.cache
+C:\Users\Rein\source\repos\try\CalorieTracker\CalorieTracker\bin\Debug\CalorieTracker.exe.config
+C:\Users\Rein\source\repos\try\CalorieTracker\CalorieTracker\bin\Debug\CalorieTracker.exe
+C:\Users\Rein\source\repos\try\CalorieTracker\CalorieTracker\bin\Debug\CalorieTracker.pdb
+C:\Users\Rein\source\repos\try\CalorieTracker\CalorieTracker\obj\Debug\CalorieTracker.exe
+C:\Users\Rein\source\repos\try\CalorieTracker\CalorieTracker\obj\Debug\CalorieTracker.pdb
+C:\Users\Rein\source\repos\try\CalorieTracker\CalorieTracker\obj\Debug\CalorieTracker.FormFoodList.resources
+C:\Users\Rein\source\repos\try\CalorieTracker\CalorieTracker\obj\Debug\CalorieTracker.Dashboard.resources
