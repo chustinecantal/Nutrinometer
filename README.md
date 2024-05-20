@@ -47,9 +47,9 @@ Below are the features of a User Calories Tracker, referred to as Nutrinometer. 
 
 ## ▶ Presentation
 
-This is the video presentation [here](link of drive) about Nutrinometer, showcasing its features, functionality, and the code implementation details.
+This is the video presentation [here](https://drive.google.com/file/d/1BdCAwUE6fHrQO5bL7Bdb7QnJ4JNhveUL/view?usp=drive_link) about Nutrinometer, showcasing its features, functionality, and the code implementation details.
 
-[![Nutrinometer Demo](https://github.com/chustinecantal/Nutrinometer/blob/main/Images/icon.png)](link of drive)
+[![Nutrinometer Demo](https://github.com/chustinecantal/Nutrinometer/blob/main/Images/icon.png)](https://drive.google.com/file/d/1BdCAwUE6fHrQO5bL7Bdb7QnJ4JNhveUL/view?usp=drive_link)
 
 
 ---
