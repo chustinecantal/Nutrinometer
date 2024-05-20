@@ -24,18 +24,20 @@ This project aims to develop a user-friendly food intake tracker that allows ind
 
 Below are the features of a User Calories Tracker, referred to as Nutrinometer. Here's a breakdown of its functionalities:
 
-**Login**
-
-
-
-**Sign Up**
-
+**User Profile Setup**
+-  Log In and Sign Up
+-  Age, gender, weight, height, and activity level.
+-  Goal setting (weight loss, maintenance, weight gain).
+<div align="center"> <img align="center" src="https://github.com/chustinecantal/Nutrinometer/blob/main/Images/loginSignup%20feature.gif" width="80%" /> </div>
+<br>
 
 
 **User Dashboard**
 
 - ***Dashboard:*** Profile Informations, Goal Settings, and Total Calories Intake
 - ***Foodlist:*** Add, Update, and Delete Food Intake
+- ***Calorie Tracking:*** Database of food items with calorie information and portion size adjustments and measurements.
+- ***Nutrient Tracking:*** Breakdown of macronutrients (carbohydrates, proteins, and fats).
 
 <div align="center"> <img align="center" src="https://github.com/chustinecantal/Nutrinometer/blob/main/Images/DashboardFF.gif" width="80%" /> </div>
 <br>
