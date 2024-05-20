@@ -28,6 +28,7 @@ Below are the features of a User Calories Tracker, referred to as Nutrinometer. 
 -  Log In and Sign Up
 -  Age, gender, weight, height, and activity level.
 -  Goal setting (weight loss, maintenance, weight gain).
+  
 <div align="center"> <img align="center" src="https://github.com/chustinecantal/Nutrinometer/blob/main/Images/loginSignup%20feature.gif" width="80%" /> </div>
 <br>
 
