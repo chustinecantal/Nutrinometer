@@ -10,7 +10,7 @@
 - [📍 Overview](#-overview)
 - [📦 Features](#-features)
 - [▶ Presentation](#-presentation)
-- [👏 Acknowledgments](#acknowledgments)
+- [👏 Contributors](#contributors)
 
 ---
 
@@ -47,4 +47,16 @@ Below are the features of a User Calories Tracker, referred to as Nutrinometer. 
 
 ## ▶ Presentation
 
+This is the video presentation [here](link of drive) about Nutrinometer, showcasing its features, functionality, and the code implementation details.
 
+[![Nutrinometer Demo](https://github.com/chustinecantal/Nutrinometer/blob/main/Images/icon.png)](link of drive)
+
+
+---
+
+## 👏 Contributors
+
+#### [CHUSTINE](https://github.com/chustinecantal) - 22-06033@g.batstate-u.edu.ph
+#### [REINA](https://github.com/reinarmedilla) - 22-06939@g.batstate-u.edu.ph <br>
+#### [STEPHANIE](https://github.com/Stephanie017) -  22-05252@g.batstae-u.edu.ph <br>
+#### [ELIZABETH](https://github.com/elizalindo) - elizabeth.lindo@g.batstate-u.edu.ph <br>
