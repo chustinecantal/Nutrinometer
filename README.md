@@ -30,8 +30,9 @@ Below are the features of a User Calories Tracker, referred to as Nutrinometer. 
 **Sign Up**
 
 **User Dashboard**
-- Dashboard: Profile Informations, Goal Settings, and Total Calories Intake
-- Foodlist: Add, Update, and Delete Food Intake
-<div align="center"> <img align="center" src="https://github.com/chustinecantal/Nutrinometer/blob/main/Images/DashboardFF.gif" width="60%" /> </div>
+Dashboard: Profile Informations, Goal Settings, and Total Calories Intake
+Foodlist: Add, Update, and Delete Food Intake
+
+<div align="center"> <img align="center" src="https://github.com/chustinecantal/Nutrinometer/blob/main/Images/DashboardFF.gif" width="80%" /> </div>
 <br>
 
