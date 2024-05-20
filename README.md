@@ -10,7 +10,7 @@
 - [📍 Overview](#-overview)
 - [📦 Features](#-features)
 - [▶ Presentation](#-presentation)
-  - [👏 Acknowledgments](#acknowledgments)
+- [👏 Acknowledgments](#acknowledgments)
 
 ---
 
