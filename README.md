@@ -10,9 +10,7 @@
 - [📍 Overview](#-overview)
 - [📦 Features](#-features)
 - [▶ Presentation](#-presentation)
- - [👏 Acknowledgement and Contribution Narrative](#-acknowledgement-and-contribution-narrative)
-  - [Acknowledgments](#acknowledgments)
-  - [Contribution Narrative](#contribution-narrative)
+  - [👏 Acknowledgments](#acknowledgments)
 
 ---
 
