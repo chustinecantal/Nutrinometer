@@ -6,11 +6,11 @@
 ---
 
 # 📖 Table of Contents
-- [📖 Table of Contents](#-table-of-contents)
-- [📍 Overview](#-overview)
-- [📦 Features](#-features)
-- [▶ Presentation](#-presentation)
-- [👏 Acknowledgments](#acknowledgments)
+ [📖 Table of Contents](#-table-of-contents)
+ [📍 Overview](#-overview)
+ [📦 Features](#-features)
+ [▶ Presentation](#-presentation)
+ [👏 Acknowledgments](#acknowledgments)
 
 ---
 
@@ -25,8 +25,9 @@ This project aims to develop a user-friendly food intake tracker that allows ind
 Below are the features of a User Calories Tracker, referred to as Nutrinometer. Here's a breakdown of its functionalities:
 
 **Login**
+
 **Sign Up**
 
 **User Dashboard**
 
-- 
+
